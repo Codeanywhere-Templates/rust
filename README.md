@@ -1,6 +1,6 @@
 This is an example Rust project used in Codeanywhere.
 
-[Try it out](https://app.codeanywhere.com/workspace/create#https://github.com/Codeanywhere-Templates/rust)
+[Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/rust)
 
 Open the terminal and run:
 ```sh
